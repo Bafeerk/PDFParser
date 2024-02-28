@@ -1,2 +1,6 @@
 /myenv
 /.idea
+/CustomWidgets/__pycache__
+/MyFunctions/__pycache__
+/NewProtocols
+/DeletedProtocols
